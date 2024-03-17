@@ -4,7 +4,7 @@
 
 
 ## Выгрузка данных в Microsoft Power BI
-![](https://github.com/CepbluKot/bi_proj/blob/main/powerbi2.png)
+![](https://github.com/CepbluKot/bi_proj/blob/main/powerbi.png)
 
 
 ## Визуализация аналитики в Microsoft Power BI
